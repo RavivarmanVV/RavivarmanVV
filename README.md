@@ -39,9 +39,7 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence and Machine Learnin
 - **Contribution:** Project concept and problem-solving approach.
 
 ## 🌐 Connect With Me
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- GitHub: [My GitHub](YOUR_GITHUB_URL)
-
+- LinkedIn: https://www.linkedin.com/in/ravivarman-vv-2a32a132a
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
